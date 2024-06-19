@@ -46,16 +46,13 @@
     HTML5 introduces new elements, attributes, and APIs (Application Programming Interfaces) that enhance the capabilities of web development.
     
     ### HTML vs HTML5  
-    - **Simplified Doctype** ===  ```jsx <!DOCTYPE html>```
+    - **Simplified Doctype** ===  ``` <!DOCTYPE html>```
     - **Added different Meta** === charset, viewport, author
     
     ```jsx
     <meta charset="UTF-8">
-    
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
     <meta name="author" content="John Doe">
-    
     ```
     
     - **Some New Element tags** like  audio, video, embed, details, datalist, figure, command, canvas (try to know these tags’ short description)
