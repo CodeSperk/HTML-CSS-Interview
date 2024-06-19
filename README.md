@@ -8,7 +8,7 @@
   | No. | Questions                                   |
   | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
   |     | **Core HTML**                                                                                                                                                                                                                   |
-| 1   | [What is HTML & What is HTML5](#what-is-HTML)                                                                                                                                                                                                 |
+| 1   | [What are HTML & HTML5 ? Difference between HTML & HTML5 ](#what-is-HTML)                                                                                                                                                                                                 |
 </details>
 
 
