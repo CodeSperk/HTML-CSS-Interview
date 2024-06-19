@@ -20,7 +20,7 @@
 | 1  *** | [What are HTML & HTML5 ? Difference between HTML & HTML5. ](#what-is-HTML)                                                                                                                                                                                                 |
 | 2  ***  | [What is Semantic in HTML? Why should we use semantic tags  instead of using  div? ](#what-is-Semantic-in-HTML)                                                                                                                                                                                                 |
 | 3  ***  | [Difference between HTML element and HTML tag. ](#Difference-between-HTML-element-and-HTML-tag)                                                                                                                                                                                                 |
-| 4  ***  | [When to use inline elements & when to use block elements? give example ? ](#When-to-use-inline-elements-&-when-to-use-block-elements)                                                                                                                                                                                                 |
+| 4  ***  | [When to use inline elements & when to use block elements? give example ? ](#When-to-use-inline-elements)                                                                                                                                                                                                 |
 </details>
 
 
@@ -87,7 +87,7 @@
   **[⬆ Back to Top](#table-of-contents)**
 
 3.  ### What is Semantic in HTML?
-   ### Why should we use semantic tags  instead of using  div??
+    ### Why should we use semantic tags  instead of using  div??
 
 
 
@@ -96,8 +96,8 @@
 
   **[⬆ Back to Top](#table-of-contents)**
 
-4.  ### When to use inline elements & when to use block elements
-   ### Give Example
+4.  ### When to use inline elements 
+    ### & when to use block elements Give Example
 
 
 
