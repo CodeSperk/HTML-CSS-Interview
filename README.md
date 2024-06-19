@@ -72,6 +72,102 @@
     - **More Semantic tags** :   header, nav, main, section, article, aside, footer, em, strong etc.
     - **New terminology**: Semantic 
 
+
+
+
+ HTML (Hypertext Markup Language) is a standard markup language **used for creating the structure and content of web pages.** 
+
+    HTML is the backbone of the World Wide Web, **providing a way to structure and present information** on the internet.
+
+    It consists of a set of tags and elements like headings, paragraphs, images, links, and other components of a webpage. 
+
+    <details>
+      <summary> Definition of HyperText  </summary>
+      Hypertext refers to the capability of linking and connecting different pieces of information or documents through hyperlinks, it enables users to navigate between web pages by clicking on text, images, or other elements.
+    </details>
+    <details>
+      <summary> Definition of Markup  </summary>
+      Markup in HTML is the use of angle brackets tags (< > </>) to format and structure content for web browsers.
+    </details>
+
+ HTML (Hypertext Markup Language) is a standard markup language **used for creating the structure and content of web pages.** 
+
+    HTML is the backbone of the World Wide Web, **providing a way to structure and present information** on the internet.
+
+    It consists of a set of tags and elements like headings, paragraphs, images, links, and other components of a webpage. 
+
+    <details>
+      <summary> Definition of HyperText  </summary>
+      Hypertext refers to the capability of linking and connecting different pieces of information or documents through hyperlinks, it enables users to navigate between web pages by clicking on text, images, or other elements.
+    </details>
+    <details>
+      <summary> Definition of Markup  </summary>
+      Markup in HTML is the use of angle brackets tags (< > </>) to format and structure content for web browsers.
+    </details>
+
+ HTML (Hypertext Markup Language) is a standard markup language **used for creating the structure and content of web pages.** 
+
+    HTML is the backbone of the World Wide Web, **providing a way to structure and present information** on the internet.
+
+    It consists of a set of tags and elements like headings, paragraphs, images, links, and other components of a webpage. 
+
+    <details>
+      <summary> Definition of HyperText  </summary>
+      Hypertext refers to the capability of linking and connecting different pieces of information or documents through hyperlinks, it enables users to navigate between web pages by clicking on text, images, or other elements.
+    </details>
+    <details>
+      <summary> Definition of Markup  </summary>
+      Markup in HTML is the use of angle brackets tags (< > </>) to format and structure content for web browsers.
+    </details>
+
+ HTML (Hypertext Markup Language) is a standard markup language **used for creating the structure and content of web pages.** 
+
+    HTML is the backbone of the World Wide Web, **providing a way to structure and present information** on the internet.
+
+    It consists of a set of tags and elements like headings, paragraphs, images, links, and other components of a webpage. 
+
+    <details>
+      <summary> Definition of HyperText  </summary>
+      Hypertext refers to the capability of linking and connecting different pieces of information or documents through hyperlinks, it enables users to navigate between web pages by clicking on text, images, or other elements.
+    </details>
+    <details>
+      <summary> Definition of Markup  </summary>
+      Markup in HTML is the use of angle brackets tags (< > </>) to format and structure content for web browsers.
+    </details>
+
+ HTML (Hypertext Markup Language) is a standard markup language **used for creating the structure and content of web pages.** 
+
+    HTML is the backbone of the World Wide Web, **providing a way to structure and present information** on the internet.
+
+    It consists of a set of tags and elements like headings, paragraphs, images, links, and other components of a webpage. 
+
+    <details>
+      <summary> Definition of HyperText  </summary>
+      Hypertext refers to the capability of linking and connecting different pieces of information or documents through hyperlinks, it enables users to navigate between web pages by clicking on text, images, or other elements.
+    </details>
+    <details>
+      <summary> Definition of Markup  </summary>
+      Markup in HTML is the use of angle brackets tags (< > </>) to format and structure content for web browsers.
+    </details>
+
+ HTML (Hypertext Markup Language) is a standard markup language **used for creating the structure and content of web pages.** 
+
+    HTML is the backbone of the World Wide Web, **providing a way to structure and present information** on the internet.
+
+    It consists of a set of tags and elements like headings, paragraphs, images, links, and other components of a webpage. 
+
+    <details>
+      <summary> Definition of HyperText  </summary>
+      Hypertext refers to the capability of linking and connecting different pieces of information or documents through hyperlinks, it enables users to navigate between web pages by clicking on text, images, or other elements.
+    </details>
+    <details>
+      <summary> Definition of Markup  </summary>
+      Markup in HTML is the use of angle brackets tags (< > </>) to format and structure content for web browsers.
+    </details>
+
+
+
+
     
 
     **[⬆ Back to Top](#table-of-contents)**
@@ -80,6 +176,118 @@
 2.  ### What is Semantic in HTML?
    
    ### Why should we use semantic tags  instead of using  div??
+
+
+
+
+    HTML (Hypertext Markup Language) is a standard markup language **used for creating the structure and content of web pages.** 
+
+    HTML is the backbone of the World Wide Web, **providing a way to structure and present information** on the internet.
+
+    It consists of a set of tags and elements like headings, paragraphs, images, links, and other components of a webpage. 
+
+    <details>
+      <summary> Definition of HyperText  </summary>
+      Hypertext refers to the capability of linking and connecting different pieces of information or documents through hyperlinks, it enables users to navigate between web pages by clicking on text, images, or other elements.
+    </details>
+    <details>
+      <summary> Definition of Markup  </summary>
+      Markup in HTML is the use of angle brackets tags (< > </>) to format and structure content for web browsers.
+    </details>
+
+ HTML (Hypertext Markup Language) is a standard markup language **used for creating the structure and content of web pages.** 
+
+    HTML is the backbone of the World Wide Web, **providing a way to structure and present information** on the internet.
+
+    It consists of a set of tags and elements like headings, paragraphs, images, links, and other components of a webpage. 
+
+    <details>
+      <summary> Definition of HyperText  </summary>
+      Hypertext refers to the capability of linking and connecting different pieces of information or documents through hyperlinks, it enables users to navigate between web pages by clicking on text, images, or other elements.
+    </details>
+    <details>
+      <summary> Definition of Markup  </summary>
+      Markup in HTML is the use of angle brackets tags (< > </>) to format and structure content for web browsers.
+    </details>
+
+ HTML (Hypertext Markup Language) is a standard markup language **used for creating the structure and content of web pages.** 
+
+    HTML is the backbone of the World Wide Web, **providing a way to structure and present information** on the internet.
+
+    It consists of a set of tags and elements like headings, paragraphs, images, links, and other components of a webpage. 
+
+    <details>
+      <summary> Definition of HyperText  </summary>
+      Hypertext refers to the capability of linking and connecting different pieces of information or documents through hyperlinks, it enables users to navigate between web pages by clicking on text, images, or other elements.
+    </details>
+    <details>
+      <summary> Definition of Markup  </summary>
+      Markup in HTML is the use of angle brackets tags (< > </>) to format and structure content for web browsers.
+    </details>
+
+ HTML (Hypertext Markup Language) is a standard markup language **used for creating the structure and content of web pages.** 
+
+    HTML is the backbone of the World Wide Web, **providing a way to structure and present information** on the internet.
+
+    It consists of a set of tags and elements like headings, paragraphs, images, links, and other components of a webpage. 
+
+    <details>
+      <summary> Definition of HyperText  </summary>
+      Hypertext refers to the capability of linking and connecting different pieces of information or documents through hyperlinks, it enables users to navigate between web pages by clicking on text, images, or other elements.
+    </details>
+    <details>
+      <summary> Definition of Markup  </summary>
+      Markup in HTML is the use of angle brackets tags (< > </>) to format and structure content for web browsers.
+    </details>
+
+ HTML (Hypertext Markup Language) is a standard markup language **used for creating the structure and content of web pages.** 
+
+    HTML is the backbone of the World Wide Web, **providing a way to structure and present information** on the internet.
+
+    It consists of a set of tags and elements like headings, paragraphs, images, links, and other components of a webpage. 
+
+    <details>
+      <summary> Definition of HyperText  </summary>
+      Hypertext refers to the capability of linking and connecting different pieces of information or documents through hyperlinks, it enables users to navigate between web pages by clicking on text, images, or other elements.
+    </details>
+    <details>
+      <summary> Definition of Markup  </summary>
+      Markup in HTML is the use of angle brackets tags (< > </>) to format and structure content for web browsers.
+    </details>
+
+ HTML (Hypertext Markup Language) is a standard markup language **used for creating the structure and content of web pages.** 
+
+    HTML is the backbone of the World Wide Web, **providing a way to structure and present information** on the internet.
+
+    It consists of a set of tags and elements like headings, paragraphs, images, links, and other components of a webpage. 
+
+    <details>
+      <summary> Definition of HyperText  </summary>
+      Hypertext refers to the capability of linking and connecting different pieces of information or documents through hyperlinks, it enables users to navigate between web pages by clicking on text, images, or other elements.
+    </details>
+    <details>
+      <summary> Definition of Markup  </summary>
+      Markup in HTML is the use of angle brackets tags (< > </>) to format and structure content for web browsers.
+    </details>
+
+ HTML (Hypertext Markup Language) is a standard markup language **used for creating the structure and content of web pages.** 
+
+    HTML is the backbone of the World Wide Web, **providing a way to structure and present information** on the internet.
+
+    It consists of a set of tags and elements like headings, paragraphs, images, links, and other components of a webpage. 
+
+    <details>
+      <summary> Definition of HyperText  </summary>
+      Hypertext refers to the capability of linking and connecting different pieces of information or documents through hyperlinks, it enables users to navigate between web pages by clicking on text, images, or other elements.
+    </details>
+    <details>
+      <summary> Definition of Markup  </summary>
+      Markup in HTML is the use of angle brackets tags (< > </>) to format and structure content for web browsers.
+    </details>
+
+
+**[⬆ Back to Top](#table-of-contents)**
+
 
 
     
