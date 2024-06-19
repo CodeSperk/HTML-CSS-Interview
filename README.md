@@ -2,7 +2,7 @@
 
 ### Table of Contents
 
-<details open>
+<details>
   <summary> Hide/Show Table of contents</summary>
 
   | No. | Questions                                   |
