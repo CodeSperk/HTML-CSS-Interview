@@ -8,7 +8,7 @@
   | No. | Questions                                   |
   | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
   |     | **Core HTML**                                                                                                                                                                                                                   |
-| 1   | [What are HTML & HTML5 ? Difference between HTML & HTML5 ](#what-is-HTML)                                                                                                                                                                                                 |
+| 1   | [What are HTML & HTML5 ? Difference between HTML & HTML5. ](#what-is-HTML)                                                                                                                                                                                                 |
 </details>
 
 
@@ -46,8 +46,8 @@
     HTML5 introduces new elements, attributes, and APIs (Application Programming Interfaces) that enhance the capabilities of web development.
     
     ### HTML vs HTML5  
-    - **Simplified Doctype ===  <!DOCTYPE html>**
-    - **Added different Meta === charset, viewport, author**
+    - **Simplified Doctype** ===  ```jsx <!DOCTYPE html>```
+    - **Added different Meta** === charset, viewport, author
     
     ```jsx
     <meta charset="UTF-8">
@@ -58,7 +58,7 @@
     
     ```
     
-    - **Some New Element tags** like  audio, video, embed, details, datalist, figure, command, canvas (try to know these tags’ short description
+    - **Some New Element tags** like  audio, video, embed, details, datalist, figure, command, canvas (try to know these tags’ short description)
     - **Some new input tags**: date, datetime-local, datetime, email, month, number, range
     - **More semantic tags** :   header, nav, main, section, article, aside, footer, em, strong etc.
     - **New terminology**: Semantic 
