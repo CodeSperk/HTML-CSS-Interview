@@ -2,7 +2,7 @@
 
 ### Table of Contents
 
-<details>
+<details open>
   <summary> Hide/Show Table of contents</summary>
 
   | No. | Questions                                   |
@@ -26,11 +26,11 @@
 
     It consists of a set of tags and elements like headings, paragraphs, images, links, and other components of a webpage. 
 
-    <details open>
+    <details>
       <summary> Hide/Show Definition of HyperText  </summary>
       Hypertext refers to the capability of linking and connecting different pieces of information or documents through hyperlinks, it enables users to navigate between web pages by clicking on text, images, or other elements.
     </details>
-    <details open>
+    <details>
       <summary> Hide/Show Definition of Markup  </summary>
       Markup in HTML is the use of angle brackets tags (< > </>) to format and structure content for web browsers.
     </details>
