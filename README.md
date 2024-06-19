@@ -1,4 +1,13 @@
 # HTML CSS Interview Questions
+### Note
+
+<details>
+  <summary> Resources : </summary>
+  Resources of HTML Questions:
+  
+    1. Top 15 HTML Interview questionns.
+    2. Programming Hero Interview questions video.                                                                                                                                                                                        |
+</details>
 
 ### Table of Contents
 
@@ -8,7 +17,10 @@
   | No. | Questions                                   |
   | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
   |     | **Core HTML**                                                                                                                                                                                                                   |
-| 1   | [What are HTML & HTML5 ? Difference between HTML & HTML5. ](#what-is-HTML)                                                                                                                                                                                                 |
+| 1  *** | [What are HTML & HTML5 ? Difference between HTML & HTML5. ](#what-is-HTML)                                                                                                                                                                                                 |
+| 2  ***  | [What is Semantic in HTML? Why should we use semantic tags  instead of using  div? ](#what-is-Semantic-in-HTML)                                                                                                                                                                                                 |
+| 3  ***  | [Difference between HTML element and HTML tag. ](#Difference-between-HTML-element-and-HTML-tag)                                                                                                                                                                                                 |
+| 4  ***  | [When to use inline elements & when to use block elements? give example ? ](#When-to-use-inline-elements)                                                                                                                                                                                                 |
 </details>
 
 
@@ -47,19 +59,101 @@
     
     ### HTML vs HTML5  
     - **Simplified Doctype** ===  ``` <!DOCTYPE html>```
-    - **Added different Meta** === charset, viewport, author
+    - **Different Meta** === charset, viewport, author
     
-    ```jsx
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="John Doe">
-    ```
+        ```jsx
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="John Doe">
+        ```
     
-    - **Some New Element tags** like  audio, video, embed, details, datalist, figure, command, canvas (try to know these tags’ short description)
-    - **Some new input tags**: date, datetime-local, datetime, email, month, number, range
-    - **More semantic tags** :   header, nav, main, section, article, aside, footer, em, strong etc.
+    - **New Element tags** like  audio, video, embed, details, datalist, figure, command, canvas (try to know these tags’ short description)
+    - **New input tags**: date, datetime-local, datetime, email, month, number, range
+    - **More Semantic tags** :   header, nav, main, section, article, aside, footer, em, strong etc.
     - **New terminology**: Semantic 
-
     
 
     **[⬆ Back to Top](#table-of-contents)**
+
+    
+
+3.  ### What is Semantic in HTML?
+    ### Why should we use semantic tags  instead of using  div??
+
+       [PH Interview video-1](https://www.facebook.com/100070028615565/videos/1666272797114745)
+
+      Semantic means **meaningful**. A semantic tag in HTML is a tag that carries meaning about the structure and content of the web page, providing information about the type of content enclosed within the tags.
+
+      **Why should We use semantic tags in html?**  
+      - **Accessibility:** Helps screen readers (individuals with disabilities) and other assistive technologies **(Screen Magnifiers, Braille displays, Speech Recognition Software)** interpret content.
+      - **SEO Friendly:** Improves search engine rankings by providing meaningful structure.
+      - **Code Readability:** Makes code more **readable and maintainable** for developers.
+  
+        <details>
+          <summary> Examples of some semantic tags include:  </summary>
+          
+          1. **`<header>`**: Represents the header of a section or a page.
+          2. **`<nav>`**: Defines a navigation menu.
+          3. **`<main>`**: Represents the main content of a document.
+          4. **`<article>`**: Represents a self-contained piece of content, such as a news article.
+          5. **`<section>`**: Defines a section in a document.
+          6. **`<aside>`**: Represents content that is tangentially related to the content around it.
+          7. **`<footer>`**: Represents the footer of a section or a page.
+
+
+          1. **`<strong>`**: Represents strong **importance or seriousness.**
+          2. **`<mark>`**: Represents text **highlighted f**or reference or notation purposes.
+          3. **`<figure>`**: Represents any content that is referenced from the main content, such as images or diagrams.
+          4. **`<figcaption>`**: Represents a caption or legend for a **`<figure>`** element.
+          5. **`<address>`**: Represents contact information for the nearest **`<article>`** or **`<body>`** ancestor.
+
+          1. **`<cite>`**: Represents the title of a creative work or the name of its author.
+          2. **`<abbr>`**: Represents an abbreviation or acronym.
+          3. **`<details>`**: Represents a disclosure widget from which the user can obtain additional information or controls.
+          4. **`<summary>`**: Defines a summary or caption for the content of a **`<details>`** element.
+          5. **`<time>`**: Represents a specific period in time.
+        </details>
+        <details>
+          <summary>Examples of some non-semantic tags</summary>
+          
+          1. **`<div></div>`**
+          2. **`<span></span>`**
+          3. **`<b></b>`**
+          4. **`<i></i>`**
+          5. **`<strike></strike>`**
+        </details>
+
+        **Semantic tags for structure**
+        ![Semantic Tags](./images/html_version.png)
+
+      
+    **[⬆ Back to Top](#table-of-contents)**
+    
+    
+5.  ### Difference between HTML element and HTML tag.
+
+       [PH Interview video-1](https://www.facebook.com/100070028615565/videos/1666272797114745)
+
+
+
+
+
+
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+    
+
+7.  ### When to use inline elements 
+    ### & when to use block elements Give Example
+
+      [PH Interview video-1](https://www.facebook.com/100070028615565/videos/1666272797114745)
+
+
+
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+
+
+    
