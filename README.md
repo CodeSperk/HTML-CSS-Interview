@@ -46,8 +46,7 @@
     HTML5 introduces new elements, attributes, and APIs (Application Programming Interfaces) that enhance the capabilities of web development.
     
   ### HTML vs HTML5  
-      **Simplified Doctype**
-      - **Added different Meta === charset, viewport, author**
+    
     
        
 
