@@ -7,8 +7,7 @@
 
   | No. | Questions                                   |
   | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-  |     | **Core HTML**                               
-                                                          |
-  |01   | What is HTML? & What is HTML5?               
-                                                          |
+  |     | **Core HTML**                                                                                                                                                                                                                   |
+| 1   | [What is React?](#what-is-react)                                                                                                                                                                                                 |
+| 2   | [What is the history behind React evolution?](#What-is-the-history-behind-React-evolution)                                                                                                                                       |
 </details>
