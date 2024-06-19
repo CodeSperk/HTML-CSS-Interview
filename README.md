@@ -75,20 +75,30 @@
 
     **[⬆ Back to Top](#table-of-contents)**
 
-
-2.  ### Difference between HTML element and HTML tag.
-  
-
-
-
-
-
-
-    **[⬆ Back to Top](#table-of-contents)**
+    
 
 3.  ### What is Semantic in HTML?
     ### Why should we use semantic tags  instead of using  div??
 
+       [PH Interview video-1](https://www.facebook.com/100070028615565/videos/1666272797114745)
+
+      Semantic means **meaningful**. A semantic tag in HTML is a tag that carries meaning about the structure and content of the web page, providing information about the type of content enclosed within the tags.
+
+      **Why should We use semantic tags in html?**  
+      - **Accessibility:** Helps screen readers (individuals with disabilities) and other assistive technologies **(Screen Magnifiers, Braille displays, Speech Recognition Software)** interpret content.
+      - **SEO Friendly:** Improves search engine rankings by providing meaningful structure.
+      - **Code Readability:** Makes code more **readable and maintainable** for developers.
+      - **Consistency:** Promotes a standardized way to structure content for easier collaboration.
+      - **Future-Proofing:** Provides a solid foundation for adapting to new technologies and standards.
+      
+    **[⬆ Back to Top](#table-of-contents)**
+    
+    
+5.  ### Difference between HTML element and HTML tag.
+
+       [PH Interview video-1](https://www.facebook.com/100070028615565/videos/1666272797114745)
+
+
 
 
 
@@ -96,10 +106,12 @@
 
     **[⬆ Back to Top](#table-of-contents)**
 
-4.  ### When to use inline elements 
+    
+
+7.  ### When to use inline elements 
     ### & when to use block elements Give Example
 
-
+      [PH Interview video-1](https://www.facebook.com/100070028615565/videos/1666272797114745)
 
 
 
