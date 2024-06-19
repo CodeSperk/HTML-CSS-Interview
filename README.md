@@ -1,4 +1,13 @@
 # HTML CSS Interview Questions
+### Note
+
+<details>
+  <summary> Resources : </summary>
+  Resources of HTML Questions:
+  
+    1. Top 15 HTML Interview questionns.
+    2. Programming Hero Interview questions video.                                                                                                                                                                                        |
+</details>
 
 ### Table of Contents
 
@@ -8,7 +17,10 @@
   | No. | Questions                                   |
   | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
   |     | **Core HTML**                                                                                                                                                                                                                   |
-| 1   | [What are HTML & HTML5 ? Difference between HTML & HTML5. ](#what-is-HTML)                                                                                                                                                                                                 |
+| 1  *** | [What are HTML & HTML5 ? Difference between HTML & HTML5. ](#what-is-HTML)                                                                                                                                                                                                 |
+| 2  ***  | [What is Semantic in HTML? Why should we use semantic tags  instead of using  div? ](#what-is-Semantic-in-HTML)                                                                                                                                                                                                 |
+| 3  ***  | [Difference between HTML element and HTML tag. ](#what-is-HTML)                                                                                                                                                                                                 |
+| 4  ***  | [When to use inline elements & when to use block elements? give example ? ](#what-is-HTML)                                                                                                                                                                                                 |
 </details>
 
 
@@ -47,19 +59,27 @@
     
     ### HTML vs HTML5  
     - **Simplified Doctype** ===  ``` <!DOCTYPE html>```
-    - **Added different Meta** === charset, viewport, author
+    - **Different Meta** === charset, viewport, author
     
-    ```jsx
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="John Doe">
-    ```
+        ```jsx
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="John Doe">
+        ```
     
-    - **Some New Element tags** like  audio, video, embed, details, datalist, figure, command, canvas (try to know these tags’ short description)
-    - **Some new input tags**: date, datetime-local, datetime, email, month, number, range
-    - **More semantic tags** :   header, nav, main, section, article, aside, footer, em, strong etc.
+    - **New Element tags** like  audio, video, embed, details, datalist, figure, command, canvas (try to know these tags’ short description)
+    - **New input tags**: date, datetime-local, datetime, email, month, number, range
+    - **More Semantic tags** :   header, nav, main, section, article, aside, footer, em, strong etc.
     - **New terminology**: Semantic 
 
     
 
     **[⬆ Back to Top](#table-of-contents)**
+
+
+2.  ### What is Semantic in HTML?
+   
+   ### Why should we use semantic tags  instead of using  div??
+
+
+    
