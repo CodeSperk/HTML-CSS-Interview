@@ -35,7 +35,7 @@
       Markup in HTML is the use of angle brackets tags (< > </>) to format and structure content for web browsers.
     </details>
 
-    **HTML Versions at a  glance
+    **HTML Versions at a  glance**
     ![HTML versions](./images/html_version.png)
 
     ### What is HTML5?
