@@ -88,8 +88,44 @@
       - **Accessibility:** Helps screen readers (individuals with disabilities) and other assistive technologies **(Screen Magnifiers, Braille displays, Speech Recognition Software)** interpret content.
       - **SEO Friendly:** Improves search engine rankings by providing meaningful structure.
       - **Code Readability:** Makes code more **readable and maintainable** for developers.
-      - **Consistency:** Promotes a standardized way to structure content for easier collaboration.
-      - **Future-Proofing:** Provides a solid foundation for adapting to new technologies and standards.
+  
+        <details>
+          <summary> Examples of some semantic tags include:  </summary>
+          
+          1. **`<header>`**: Represents the header of a section or a page.
+          2. **`<nav>`**: Defines a navigation menu.
+          3. **`<main>`**: Represents the main content of a document.
+          4. **`<article>`**: Represents a self-contained piece of content, such as a news article.
+          5. **`<section>`**: Defines a section in a document.
+          6. **`<aside>`**: Represents content that is tangentially related to the content around it.
+          7. **`<footer>`**: Represents the footer of a section or a page.
+
+
+          1. **`<strong>`**: Represents strong **importance or seriousness.**
+          2. **`<mark>`**: Represents text **highlighted f**or reference or notation purposes.
+          3. **`<figure>`**: Represents any content that is referenced from the main content, such as images or diagrams.
+          4. **`<figcaption>`**: Represents a caption or legend for a **`<figure>`** element.
+          5. **`<address>`**: Represents contact information for the nearest **`<article>`** or **`<body>`** ancestor.
+
+          1. **`<cite>`**: Represents the title of a creative work or the name of its author.
+          2. **`<abbr>`**: Represents an abbreviation or acronym.
+          3. **`<details>`**: Represents a disclosure widget from which the user can obtain additional information or controls.
+          4. **`<summary>`**: Defines a summary or caption for the content of a **`<details>`** element.
+          5. **`<time>`**: Represents a specific period in time.
+        </details>
+        <details>
+          <summary>Examples of some non-semantic tags</summary>
+          
+          1. **`<div></div>`**
+          2. **`<span></span>`**
+          3. **`<b></b>`**
+          4. **`<i></i>`**
+          5. **`<strike></strike>`**
+        </details>
+
+        **Semantic tags for structure**
+        ![Semantic Tags](./images/html_version.png)
+
       
     **[⬆ Back to Top](#table-of-contents)**
     
