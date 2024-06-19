@@ -36,7 +36,7 @@
     </details>
 
     **HTML Versions at a  glance
-    [HTML versions](./images/html_version.png)
+    ![HTML versions](./images/html_version.png)
 
     ### What is HTML5?
     HTML5 is the **fifth and latest version** of the Hypertext Markup Language (HTML), which is the standard markup language used for creating web pages and web applications.
