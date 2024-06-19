@@ -21,6 +21,12 @@
 | 2  ***  | [What is Semantic in HTML? Why should we use semantic tags  instead of using  div? ](#what-is-Semantic-in-HTML)                                                                                                                                                                                                 |
 | 3  ***  | [Difference between HTML element and HTML tag. ](#Difference-between-HTML-element-and-HTML-tag)                                                                                                                                                                                                 |
 | 4  ***  | [When to use inline elements & when to use block elements? give example ? ](#When-to-use-inline-elements)                                                                                                                                                                                                 |
+| 5  **  | [What is a Tag in HTML? Also, Can you separate sections of texts in HTML? ](#What-is-a-Tag-in-HTML)                                                                                                                                                                                                 |
+| 6  ***  | [What are Attributes in HTML?](#What-are-Attributes-in-HTML)                                                                                                                                                                                                 |
+| 7  **  | [What is an Anchor tag in HTML?](#What-is-an-Anchor-tag-in-HTML)                                                                                                                                                                                                 |
+| 8  **  | [What are Lists in HTML?](#What-are-Lists-in-HTML)                                                                                                                                                                                                 |
+| 9  ***  | [Define HTML Layout.](#Define-HTML-Layout)                                                                                                                                                                                                 |
+| 10  **  | [What is the Use of Comments in HTML?](#What-is-the-Use-of-Comments-in-HTML)                                                                                                                                                                                                 |
 </details>
 
 
@@ -29,7 +35,6 @@
 ================= -->
 
 ## Core HTML
-
 1.  ### What is HTML?
 
     HTML (Hypertext Markup Language) is a standard markup language **used for creating the structure and content of web pages.** 
@@ -77,7 +82,7 @@
 
     
 
-3.  ### What is Semantic in HTML?
+2.  ### What is Semantic in HTML?
     ### Why should we use semantic tags  instead of using  div??
 
        [PH Interview video-1](https://www.facebook.com/100070028615565/videos/1666272797114745)
@@ -124,35 +129,95 @@
         </details>
 
         **Semantic tags for structure**
-        ![Semantic Tags](./images/html_version.png)
+        
+        ![Semantic Tags](./images/semantic-tags.png)
 
       
     **[⬆ Back to Top](#table-of-contents)**
     
     
-5.  ### Difference between HTML element and HTML tag.
+3.  ### Difference between HTML element and HTML tag.
 
        [PH Interview video-1](https://www.facebook.com/100070028615565/videos/1666272797114745)
 
-
-
-
-
+    The key difference between HTML elements and tags is that an **HTML element** consists of the opening tag, content, and closing tag, while an **HTML tag** is the specific syntax used to define the beginning and end of an element.
 
 
     **[⬆ Back to Top](#table-of-contents)**
 
     
 
-7.  ### When to use inline elements 
-    ### & when to use block elements Give Example
+4.  ### When to use inline elements 
+    ### & when to use block elements? Give Example
 
       [PH Interview video-1](https://www.facebook.com/100070028615565/videos/1666272797114745)
 
-
+      **Block element** Takes full width. on the other hand **Inline Element** Takes required width
 
 
     **[⬆ Back to Top](#table-of-contents)**
+
+
+
+5.  ### What is a Tag in HTML?
+    HTML tags are essential components for specifying various types of content, such as text, images, links, and multimedia etc.
+    Tags are enclosed within angle brackets `< >` and typically come in pairs: an opening tag and a closing tag.
+   
+    ### Also, Can you separate sections of texts in HTML?
+    Yes, in HTML, you can separate sections of text using various elements such as paragraphs `<p>`, headings `<h1> to <h6>`, divs `<div>`, and spans `<span>`. These elements help structure and organize content within a      webpage.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+
+6. ### What are Attributes in HTML?
+    HTML attributes provide **extra information about HTML elements**. They modify element behaviour or appearance and are placed within the opening tag. 
+
+    Attributes consist of a name and a value, separated by an equal sign.
+
+    **[⬆ Back to Top](#table-of-contents)**
+   
+   
+7. ### What is an Anchor tag in HTML?
+    An anchor tag `<a>` in HTML creates hyperlinks allowing users to navigate between web pages by clicking. It requires an `href` attribute specifying the URL.
+
+    **[⬆ Back to Top](#table-of-contents)**
+   
+
+8. ### What are Lists in HTML?
+    HTML Lists are used **to specify lists of information**. All lists may contain one or more list elements. There are three different types of HTML lists:
+
+    - Ordered List or Numbered List `<ol>`: Present items in a numbered sequence.
+    - Unordered List or Bulleted List `<ul>` : Present items with bullet points.
+    - Description List or Definition List `<dl>`: Define terms and provide corresponding definitions.
+        ```
+            <dl>  
+              <dt>Aries</dt>  
+                <dd>-One of the 12 horoscope sign.</dd>  
+              <dt>Bingo</dt>  
+                <dd>-One of my evening snacks</dd>  
+              <dt>Leo</dt>  
+                <dd>-It is also an one of the 12 horoscope sign.</dd>  
+              <dt>Oracle</dt>  
+                <dd>-It is a multinational technology corporation.</dd>   
+            </dl>
+        ```
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+   
+9. ### Define HTML Layout.
+    HTML layout refers to the arrangement and structuring of elements within a webpage using HTML tags. It involves organizing content sections such as headers, navigation menus, main content areas, sidebars, and footers     to create a coherent user experience. This is achieved through the use of semantic HTML tags and CSS styling.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+   
+10. ### What is the Use of Comments in HTML?
+    Comments in HTML are used to provide notes or explanations within the code for developers. They are not visible on the webpage and are helpful for organizing, documenting, and debugging HTML code.
+          `<!-- Header section -->`
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+    
 
 
 
