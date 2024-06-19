@@ -45,10 +45,8 @@
 
     HTML5 introduces new elements, attributes, and APIs (Application Programming Interfaces) that enhance the capabilities of web development.
     
-  ### HTML vs HTML5  
-    
-    
-       hj
+    ### HTML vs HTML5  
+       hj Lorem impsdjlk
 
     
 
