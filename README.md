@@ -18,7 +18,7 @@
   | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
   |     | **Core HTML**                                                                                                                                                                                                                   |
 | 1  *** | [What are HTML & HTML5 ? Difference between HTML & HTML5. ](#what-is-HTML)                                                                                                                                                                                                 |
-| 2  ***  | [What is Semantic in HTML? Why should we use semantic tags  instead of using  div? ](#what-is-Semantic-in-HTML-Why-should-we-use-semantic-tags-instead-of-using-div)                                                                                                                                                                                                 |
+| 2  ***  | [What is Semantic in HTML? Why should we use semantic tags  instead of using  div? ](#what-is-Semantic-in-HTML)                                                                                                                                                                                                 |
 | 3  ***  | [Difference between HTML element and HTML tag. ](#what-is-HTML)                                                                                                                                                                                                 |
 | 4  ***  | [When to use inline elements & when to use block elements? give example ? ](#what-is-HTML)                                                                                                                                                                                                 |
 </details>
@@ -173,7 +173,8 @@
     **[⬆ Back to Top](#table-of-contents)**
 
 
-2.  ### What is Semantic in HTML?     Why should we use semantic tags  instead of using  div??
+2.  ### What is Semantic in HTML?
+   ### Why should we use semantic tags  instead of using  div??
 
 
 
