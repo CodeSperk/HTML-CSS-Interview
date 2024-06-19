@@ -24,9 +24,9 @@
 | 5  **  | [What is a Tag in HTML? Also, Can you separate sections of texts in HTML? ](#What-is-a-Tag-in-HTML)                                                                                                                                                                                                 |
 | 6  ***  | [What are Attributes in HTML?](#What-are-Attributes-in-HTML)                                                                                                                                                                                                 |
 | 7  **  | [What is an Anchor tag in HTML?](#What-is-an-Anchor-tag-in-HTML)                                                                                                                                                                                                 |
-| 8  **  | [What are Lists in HTML?](#What-are-Lists-in-HTML)                                                                                                                                                                                                 |
-| 9  ***  | [Define HTML Layout.](#Define-HTML-Layout)                                                                                                                                                                                                 |
-| 10  **  | [What is the Use of Comments in HTML?](#What-is-the-Use-of-Comments-in-HTML)                                                                                                                                                                                                 |
+| 8  **  | [What are Lists in HTML?Define the list types in HTML.](#What-are-Lists-in-HTML)                                                                                                                                                                                                 |
+| 9  *** | [Define HTML Layout.](#Define-HTML-Layout)                                                                                                                                                                                                 |
+| 10  ** | [What is the Use of Comments in HTML?](#What-is-the-Use-of-Comments-in-HTML)                                                                                                                                                                                                 |
 </details>
 
 
@@ -164,7 +164,7 @@
     Tags are enclosed within angle brackets `< >` and typically come in pairs: an opening tag and a closing tag.
    
     ### Also, Can you separate sections of texts in HTML?
-    Yes, in HTML, you can separate sections of text using various elements such as paragraphs `<p>`, headings `<h1> to <h6>`, divs `<div>`, and spans `<span>`. These elements help structure and organize content within a      webpage.
+    Yes, in HTML, I can separate sections of text using various elements such as paragraphs `</br> `<p>`, headings `<h1> to <h6>`, divs `<div>`, and spans `<span>`. These elements help structure and organize content within a  webpage.
 
     **[⬆ Back to Top](#table-of-contents)**
 
@@ -183,9 +183,10 @@
     **[⬆ Back to Top](#table-of-contents)**
    
 
-8. ### What are Lists in HTML?
+8. ### What are Lists in HTML? 
     HTML Lists are used **to specify lists of information**. All lists may contain one or more list elements. There are three different types of HTML lists:
 
+    **The list types in HTML are as below:**
     - Ordered List or Numbered List `<ol>`: Present items in a numbered sequence.
     - Unordered List or Bulleted List `<ul>` : Present items with bullet points.
     - Description List or Definition List `<dl>`: Define terms and provide corresponding definitions.
