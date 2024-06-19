@@ -173,9 +173,7 @@
     **[⬆ Back to Top](#table-of-contents)**
 
 
-2.  ### What is Semantic in HTML?
-   
-   ### Why should we use semantic tags  instead of using  div??
+2.  ### What is Semantic in HTML?     Why should we use semantic tags  instead of using  div??
 
 
 
